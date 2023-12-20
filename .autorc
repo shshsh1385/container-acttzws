@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "shshsh1385",
+  "repo": "container-acttzws",
+  "name": "shshsh1385",
+  "email": "p.arsa.ps4.ps@gmail.com",
+}
